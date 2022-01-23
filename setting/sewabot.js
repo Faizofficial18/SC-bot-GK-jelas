@@ -1,9 +1,12 @@
 exports.sewabot = (prefix) => {
 return `╭──「 *SEWABOT* 」
 │
-├❏ 1 MINGGU : 5.000 ( 5K )
-├❏ 1 BULAN : 10.000 ( 10K )
-├❏ PERMANEN : 15.000 ( 15K )
+├❏ 「*BOT INI GRATIS*」
+├❏ Joined Group Wa
+├❏https://chat.whatsapp.com/ DSWaMJHACLG97YOprxD17F
+├❏ INVITE BOT
+├❏ wa.me/6287869922719
+├❏ wa.me/6281522680366
 │
 ├──「 *PREMIUM* 」
 │
