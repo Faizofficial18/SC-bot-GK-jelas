@@ -1,7 +1,7 @@
 exports.sewabot = (prefix) => {
 return `╭──「 *SEWABOT* 」
 │
-├❏ 「*BOT INI GRATIS*」
+├❏ 「 *BOT INI GRATIS* 」
 ├❏ Joined Group Wa
 ├❏ https://chat.whatsapp.com/DSWaMJHACLG97YOprxD17F
 ├❏ INVITE BOT
