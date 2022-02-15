@@ -3,10 +3,10 @@ return `╭──「 *SEWABOT* 」
 │
 ├❏ 「 *BOT INI GRATIS* 」
 ├❏ Joined Group Wa
-├❏ https://chat.whatsapp.com/DSWaMJHACLG97YOprxD17F
+├❏ https://chat.whatsapp.com/LLGGVjTHrSfETceVFoyt3i
 ├❏ INVITE BOT
 ├❏ wa.me/6287869922719
-├❏ wa.me/6281522680366
+├❏ wa.me/6281522680366 yg ini tolol
 │
 ├──「 *PREMIUM* 」
 │
